@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Trump Tracker
 email: viren.mohindra+trump@gmail.com
-description: Track Donald J Trump's Electoral Promises with Trump Tracker.
-url: https://trumptracker.github.io
+description: Pakatan Harapan's Electoral Promises Monitor.
+url: https://phmonitor.github.io
 twitter_username: VirenMohindra
-github_username:  TrumpTracker
+github_username:  phmonitor
 
 # Build settings
 markdown: kramdown
